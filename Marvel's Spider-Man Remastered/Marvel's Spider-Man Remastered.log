@@ -1,0 +1,363 @@
+16:05:52:395 (00034404) > [Startup] Marvel's Spider-Man Remastered
+16:05:52:395 (00034404) > [Startup] ==============
+16:05:52:395 (00034404) > [Startup] 
+16:05:52:395 (00034404) > [Startup] Build: v1.824.1.0
+16:05:52:395 (00034404) > [Startup] Windows 10.0 (build 19043)
+16:05:52:395 (00034404) > [Startup] Game directory: C:\Users\<username>\OneDrive\Documents\Marvel's Spider-Man Remastered\
+16:05:52:395 (00034404) > [Startup] Working directory: D:\Games\Marvels SpiderMan Remastered
+16:05:52:395 (00034404) > [Startup] Run ID: CB50-C5B9-25F2-504D
+16:05:52:395 (00034404) > [Startup] 
+16:05:52:395 (00034404) > [Startup] Memory statistics:
+16:05:52:395 (00034404) > [Startup]   Total RAM = 15.9 GB (16295 MB)
+16:05:52:395 (00034404) > [Startup]   Avail RAM = 10.0 GB (10205 MB)
+16:05:52:395 (00034404) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
+16:05:52:395 (00034404) > [Startup]   Avail virtual memory = 131062.7 GB (134208172 MB)
+16:05:52:395 (00034404) > [Startup]   Total page file = 18.8 GB (19239 MB)
+16:05:52:395 (00034404) > [Startup]   Avail page file = 8.7 GB (8950 MB)
+16:05:52:395 (00034404) > [Startup] 
+16:05:52:395 (00034404) > [NxApp] PreInit
+16:05:52:395 (00034404) > [SwapChain] Initializing...
+16:05:52:395 (00034404) > [DXGI] Initializing...
+16:05:52:399 (00034404) > [DXGI] Successfully initialized.
+16:05:52:399 (00034404) > [Render] Enumerating adapters:
+16:05:52:399 (00034404) > [Render] 	Adapter 0:
+16:05:52:399 (00034404) > [Monitor] 		Description             : NVIDIA GeForce GTX 1650
+16:05:52:399 (00034404) > [Monitor] 		Vendor                  : nVidia (10de)
+16:05:52:399 (00034404) > [Monitor] 		Device                  : 1f91
+16:05:52:399 (00034404) > [Monitor] 		Sub system              : 3ffb17aa
+16:05:52:399 (00034404) > [Monitor] 		Revision                : 161
+16:05:52:399 (00034404) > [Monitor] 		Dedicated Video Memory  : 3962 MB
+16:05:52:399 (00034404) > [Monitor] 		Dedicated System Memory : 0000 MB
+16:05:52:399 (00034404) > [Monitor] 		Shared System Memory    : 8147 MB
+16:05:52:399 (00034404) > [Monitor] 
+16:05:52:399 (00034404) > [Render] Loading NVAPI...
+16:05:52:406 (00034404) > [Render] Done loading NVAPI
+16:05:52:406 (00034404) > [Render] 	Adapter 1:
+16:05:52:406 (00034404) > [Monitor] 		Description             : Microsoft Basic Render Driver
+16:05:52:406 (00034404) > [Monitor] 		Vendor                  : Unknown (1414)
+16:05:52:406 (00034404) > [Monitor] 		Device                  : 8c
+16:05:52:406 (00034404) > [Monitor] 		Sub system              : 0
+16:05:52:406 (00034404) > [Monitor] 		Revision                : 0
+16:05:52:406 (00034404) > [Monitor] 		Dedicated Video Memory  : 0000 MB
+16:05:52:406 (00034404) > [Monitor] 		Dedicated System Memory : 0000 MB
+16:05:52:406 (00034404) > [Monitor] 		Shared System Memory    : 8147 MB
+16:05:52:406 (00034404) > [Monitor] 
+16:05:52:406 (00034404) > [Render] Enumerating monitors:
+16:05:52:406 (00034404) > [Render] 	Monitor 0: handle = 0000000000010001, aspect = 1.77, rounded aspect = 1.78
+16:05:52:406 (00034404) > [Render] 
+16:05:52:406 (00034404) > [Render] 	Monitor handle = 0000000000010001, pixel aspect ratio = 1.00
+16:05:52:407 (00034404) > [SwapChain] Successfully initialized.
+16:05:52:407 (00034404) > [Render] Enumerating Display Modes:
+16:05:52:407 (00034404) > [Render] Querying NVAPI for Surround modes
+16:05:52:465 (00034404) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() - no surround modes detected
+16:05:52:465 (00034404) > [Render] 	Monitor '1 (NVIDIA GeForce GTX 1650(1))' (0000000000010001):
+16:05:52:465 (00034404) > [Render] 		- Mode  0 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
+16:05:52:465 (00034404) > [Render] 		- Mode  1 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
+16:05:52:465 (00034404) > [Render] 		- Mode  2 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
+16:05:52:465 (00034404) > [Render] 		- Mode  3 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
+16:05:52:466 (00034404) > [Render] 		- Mode  4 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+16:05:52:466 (00034404) > [Render] 		- Mode  5 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+16:05:52:466 (00034404) > [Render] 		- Mode  6 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0
+16:05:52:466 (00034404) > [Render] 		- Mode  7 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0
+16:05:52:466 (00034404) > [Render] 		- Mode  8 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
+16:05:52:466 (00034404) > [Render] 		- Mode  9 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
+16:05:52:466 (00034404) > [Render] 		- Mode 10 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
+16:05:52:466 (00034404) > [Render] 		- Mode 11 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
+16:05:52:466 (00034404) > [Render] 		- Mode 12 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0
+16:05:52:466 (00034404) > [Render] 		- Mode 13 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0
+16:05:52:466 (00034404) > [Render] 		- Mode 14 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+16:05:52:466 (00034404) > [Render] 		- Mode 15 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+16:05:52:466 (00034404) > [Render] 		- Mode 16 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
+16:05:52:466 (00034404) > [Render] 		- Mode 17 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
+16:05:52:466 (00034404) > [Render] 		- Mode 18 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+16:05:52:466 (00034404) > [Render] 		- Mode 19 : 2715 x 1527 @  60 Hz, stereo = 0, hdr = 0
+16:05:52:466 (00034404) > [Render] 		- Mode 20 : 2715 x 1527 @  60 Hz, stereo = 0, hdr = 0
+16:05:52:466 (00034404) > [Render] ***** Additional Monitor Output Info *****
+16:05:52:466 (00034404) > [Render] 		BitsPerColor: 8
+16:05:52:466 (00034404) > [Render] 		Primaries: R=0.5850;0.3633  G=0.3496;0.5791  B=0.1621;0.1426  White-Point=0.3125;0.3281
+16:05:52:466 (00034404) > [Render] 		HDR: No (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709)
+16:05:52:466 (00034404) > [Render] 		Luminance: Min=0.5000 Max=270.0000 MaxFullFrame=270.0000
+16:05:52:466 (00034404) > [Render] ******************************************
+16:05:52:466 (00034404) > [Render] 
+16:05:53:525 (00034404) > [NxApp] RAY TRACING DISABLED: No Ray Tracing support detected
+16:05:53:614 (00034404) > [D3D] Max supported feature level: 11.0
+16:05:53:614 (00034404) > [Render] Disabled D3D12 experimentals
+16:05:53:838 (00034404) > [Render] VMEM Budget: 3367 MB
+16:05:53:838 (00034404) > [Render] VMEM Avaialbe: 3349 MB
+16:05:53:838 (00034404) > [Render] GPU node count: 1
+16:05:53:884 (00034404) > [NxApp] PreInit successful.
+16:05:54:519 (00034404) > [NxUpscaler] DLSS init, code = 0xbad00001, info: NVSDK_NGX_Result_FAIL_FeatureNotSupported
+16:05:54:725 (00034404) > [NxApp] Querying GPU Driver Info...
+16:05:54:727 (00034404) > [NxApp] Enumerating available display adapters:
+16:05:54:746 (00034404) > [NxApp] 		NVIDIA GeForce GTX 1650 (active)
+16:05:54:746 (00034404) > [NxApp] Successfully found GPU Driver Info
+16:06:00:142 (00034404) > [NxApp] Querying GPU Driver Info...
+16:06:00:142 (00034404) > [NxApp] Enumerating available display adapters:
+16:06:00:164 (00034404) > [NxApp] 		NVIDIA GeForce GTX 1650 (active)
+16:06:00:164 (00034404) > [NxApp] Successfully found GPU Driver Info
+16:06:00:164 (00034404) > [NxApp] Driver Desc: NVIDIA GeForce GTX 1650
+16:06:00:164 (00034404) > [NxApp] Driver Version: 516.94
+16:06:00:164 (00034404) > [**************************************************Display + Graphics Settings**************************************************] 
+16:06:00:164 (00034404) > [Settings] DirectX Version: 12
+16:06:00:164 (00034404) > [Settings] Window mode: Fullscreen
+16:06:00:164 (00034404) > [Settings] Fullscreen display mode:
+16:06:00:164 (00034404) > [Settings] 	Displaying on monitor: 0
+16:06:00:164 (00034404) > [Settings] 	Resolution: 1920x1080
+16:06:00:164 (00034404) > [Settings] 	OS reported Refresh rate: 60
+16:06:00:262 (00034404) > [Settings] 	VSync: On
+16:06:00:262 (00034404) > [Settings] 	HDR: Off
+16:06:00:262 (00034404) > [Settings] 	Resolution modifier 1.000000
+16:06:00:262 (00034404) > [Settings] 	Dynamic resolution FPS target: 60
+16:06:00:262 (00034404) > [Settings] Anti aliasing: TAA
+
+16:06:00:262 (00034404) > [Settings] Upscale method: None
+
+16:06:00:262 (00034404) > [Settings] Upscale quality: Quality
+
+16:06:00:262 (00034404) > [Settings] Upscale sharpen value: 0.000000
+
+16:06:00:262 (00034404) > [Settings] Graphics Options:
+16:06:00:262 (00034404) > [Settings] 	RT Reflections: Off
+16:06:00:262 (00034404) > [Settings] 	Texture Quality: Low
+16:06:00:263 (00034404) > [Settings] 	Texture Filtering: Trilinear
+16:06:00:263 (00034404) > [Settings] 	Shadow Quality: Lowest
+16:06:00:263 (00034404) > [Settings] 	Depth of Field: Medium
+16:06:00:263 (00034404) > [Settings] 	Level of Detail: Lowest
+16:06:00:263 (00034404) > [Settings] 	Vehicle Detail: Lowest
+16:06:00:263 (00034404) > [Settings] 	Crowd Detail: Lowest
+16:06:00:263 (00034404) > [Settings] 	Hair Quality: Lowest
+16:06:00:263 (00034404) > [Settings] 	Ambient Occlusion: Off
+16:06:00:263 (00034404) > [Settings] 	Screen Space Reflections: Off
+16:06:00:263 (00034404) > [Settings] 	Particle Lighting: Low
+
+16:06:00:263 (00034404) > [Settings] 	Bloom: On
+16:06:00:263 (00034404) > [Settings] 	Vignette: On
+16:06:00:263 (00034404) > [Settings] 	Chromatic Aberration: On
+16:06:00:264 (00034404) > [Settings] 	Motion Blur: 0.000000
+16:06:00:264 (00034404) > [Settings] 	FOV Correction: 1.250000
+16:06:00:264 (00034404) > [Settings] 	Film Grain Strength: 1.000000
+16:06:00:264 (00034404) > [Settings] 	Sharpness: 1.000000
+16:06:00:264 (00034404) > [Settings] 	Lens Flares: On
+16:06:00:264 (00034404) > [Settings] 	Screen Effects: On
+16:06:00:264 (00034404) > [**************************************************Display + Graphics Settings**************************************************] 
+16:06:00:268 (00034404) > [NxApp] Creating window...
+16:06:00:291 (00013564) > [GameWindow] UpdateState bVisible true
+16:06:00:323 (00013564) > [Input] Keyboard language: "English (India)" (id: 16393)
+16:06:00:329 (00013564) > [Input] Keyboard physical layout: "India" (id: 00004009)
+16:06:00:331 (00013564) > [Input] Joystick            "Controller (XBOX 360 For Windows)"   product 654 vendor 1118 version 0 usage 5 usagePage 1 xinput yes
+16:06:00:331 (00013564) > [Input] Joystick            ""   product 49408 vendor 1165 version 68 usage 1 usagePage 12 xinput no
+16:06:00:332 (00013564) > [Input] Human Input Device  "HID-compliant vendor-defined device"   product 12446 vendor 1267 version 3 usage 1 usagePage 65280
+16:06:00:332 (00013564) > [Input] Joystick            ""   product 24735 vendor 6127 version 259 usage 136 usagePage 65468 xinput no
+16:06:00:332 (00013564) > [Input] Joystick            ""   product 24735 vendor 6127 version 259 usage 1 usagePage 12 xinput no
+16:06:00:332 (00013564) > [Input] Human Input Device  "Microsoft Input Configuration Device"   product 0 vendor 0 version 0 usage 0 usagePage 0
+16:06:00:332 (00013564) > [Input] Joystick            ""   product 24735 vendor 6127 version 259 usage 0 usagePage 65281 xinput no
+16:06:00:332 (00013564) > [Input] Human Input Device  "HID-compliant touch pad"   product 12446 vendor 1267 version 3 usage 5 usagePage 13
+16:06:00:333 (00013564) > [Input] Keyboard            "Standard PS/2 Keyboard"   type 7 subType 0 mode 1 function 12 indicators 3 total 101
+16:06:00:333 (00013564) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 264
+16:06:00:333 (00013564) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 154
+16:06:00:334 (00013564) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 5 sampleRate 0 horizontalWheel no
+16:06:00:334 (00013564) > [Input] Mouse               "HID-compliant mouse"   id 128 buttons 2 sampleRate 0 horizontalWheel no
+16:06:00:373 (00013564) > [Input] Using LibScePad
+16:06:00:379 (00013564) > [Input] Gamepads connected: 0 -> 1
+16:06:00:379 (00013564) > [Input] Gamepad for main player: 8
+16:06:00:380 (00013564) > [XInput] Enumerating available xusb hid devices:
+
+16:06:00:382 (00013564) > [Xinput] Found device: {745A17A0-74D3-11D0-B6FE-00A0C90F57DA}(USB\VID_045E&PID_028E&IG_00),USB Input Device 
+	USB\VID_045E&PID_028E&IG_00\6&2C0C0F70&0&00
+
+16:06:00:409 (00013564) > [Xinput] Found device: {D61CA365-5AF4-4486-998B-9DB4734C6CA3}(USB\VID_045E&PID_028E&REV_0110),Xbox 360 Controller for Windows 
+	USB\VID_045E&PID_028E\5&18439411&0&3
+
+16:06:00:412 (00034404) > [NxApp] Window created.
+16:06:00:412 (00034404) > [NxApp] Initializing swapchain...
+16:06:00:412 (00013564) > [Input] new Windows.Gaming.Input raw-controller found 45e 28e
+
+16:06:00:412 (00036400) > [SwapChain] Creating...
+16:06:00:412 (00036400) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
+16:06:00:472 (00036400) > [DXGI] Created swapchain.
+16:06:00:650 (00036400) > [SwapChain] Gamma correction is enabled.
+16:06:00:650 (00036400) > [SwapChain] Successfully created.
+16:06:00:650 (00036400) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
+16:06:00:650 (00034404) > [NxApp] Swapchain initialized
+16:06:00:650 (00034404) > [NxApp] Initializing renderer...
+16:06:00:650 (00034404) > [NxApp] Renderer initialized
+16:06:00:677 (00034404) > [Render] No support for DXR 1.1, raytracing will be disabled!
+16:06:00:832 (00034404) > [Render] File cache.pso contains 9024 pipelines and 0 duplicates
+16:06:00:842 (00034404) > [Render] File C:\Users\<username>\AppData\Roaming\Insomniac Games\Marvel's Spider-Man Remastered\\cache.pso contains 57 pipelines and 1 duplicates
+16:06:00:843 (00034404) > [Render] Support for Shader Model 6.6: Yes
+16:06:00:843 (00034404) > [Render] Is UMA: No Is Cache Coherent: No
+16:06:00:843 (00034404) > [Render] Using Cpu Buffer Optimize: No
+16:06:06:780 (00034404) > [Input] Windows.Gaming.Input controller connected. index: 0
+16:06:06:780 (00034404) > [Input] Gamepads connected: 1 -> 2
+16:06:06:780 (00034404) > [Input] Gamepad for main player: 0
+16:06:06:854 (00034404) > [Input] XInput disabled, disconnecting controller. index: 0
+16:06:06:855 (00034404) > [Input] Gamepads connected: 2 -> 1
+16:06:06:855 (00034404) > [Input] Gamepad for main player: 0
+16:06:11:060 (00035584) > [Audio] Device (re)initialized 0x0 'Speakers (Realtek(R) Audio)'
+16:06:11:473 (00019852) > [Save] Request type 3 failed with code 0x00000002
+16:06:11:509 (00019852) > [Save] Request type 3 failed with code 0x00000002
+16:06:17:752 (00034404) > [Save] Request load save type -1, control 128, target -1
+16:06:17:759 (00019852) > [Save] Request type 3 failed with code 0x00000002
+16:06:17:870 (00019852) > [Save] Request type 3 failed with code 0x00000002
+16:06:17:937 (00034404) > [Save] Request load save type 0, control 128, target -1
+16:06:17:990 (00034404) > [Save] Request load save type 0, control 128, target -1
+16:06:18:018 (00019852) > [Save] Request type 3 failed with code 0x00000002
+16:06:18:023 (00034404) > [Save] Request load save type 0, control 128, target -1
+16:06:18:040 (00019852) > [Save] Request type 3 failed with code 0x00000002
+16:06:18:056 (00034404) > [Save] Request load save type 0, control 128, target -1
+16:06:18:073 (00019852) > [Save] Request type 3 failed with code 0x00000002
+16:06:18:090 (00034404) > [Save] Request load save type 0, control 128, target -1
+16:06:18:106 (00019852) > [Save] Request type 3 failed with code 0x00000002
+16:06:48:078 (00034404) > [Save] Request load save type 0, control 128, target -1
+16:06:50:429 (00034404) > [Save] Request save type 2, control 0
+16:08:05:330 (00034404) > [Save] Request save type 0, control 0
+16:08:10:308 (00034404) > [Save] Request save type 0, control 0
+16:08:48:879 (00034404) > [Save] Request save type 0, control 0
+16:10:00:866 (00034404) > [Save] Request save type 0, control 0
+16:10:06:429 (00034404) > [Save] Request save type 0, control 0
+16:10:06:430 (00034404) > [Save] Request save type 0, control 0
+16:11:00:715 (00034404) > [Save] Request save type 0, control 0
+16:11:08:047 (00034404) > [Save] Request save type 0, control 0
+16:11:41:991 (00034404) > [Save] Request save type 0, control 0
+16:13:45:061 (00034404) > [Save] Request save type 0, control 0
+16:13:45:062 (00034404) > [Save] Request save type 0, control 0
+16:14:15:146 (00034404) > [Save] Request save type 0, control 0
+16:14:20:715 (00034404) > [Save] Request save type 0, control 0
+16:15:08:340 (00034404) > [Save] Request save type 0, control 0
+16:15:56:144 (00034404) > [Save] Request save type 0, control 0
+16:16:11:261 (00034404) > [Save] Request save type 0, control 0
+16:16:12:242 (00034404) > [Save] Request save type 0, control 0
+16:16:36:552 (00034404) > [Save] Request save type 0, control 0
+16:17:47:986 (00034404) > [Save] Request save type 0, control 0
+16:18:05:160 (00034404) > [Save] Request save type 0, control 0
+16:18:05:161 (00034404) > [Save] Request save type 0, control 0
+16:18:30:173 (00034404) > [Save] Request save type 0, control 0
+16:18:31:256 (00034404) > [Save] Request save type 0, control 36
+16:19:10:246 (00034404) > [Save] Request save type 0, control 0
+16:19:22:640 (00034404) > [Save] Request save type 0, control 0
+16:21:17:869 (00034404) > [Save] Request save type 0, control 0
+16:21:22:303 (00034404) > [Save] Request save type 0, control 0
+16:22:35:600 (00034404) > [Save] Request save type 0, control 0
+16:22:49:230 (00034404) > [Save] Request save type 0, control 0
+16:23:28:993 (00034404) > [Save] Request save type 0, control 0
+16:23:28:994 (00034404) > [Save] Request save type 0, control 0
+16:23:29:361 (00034404) > [Save] Request save type 0, control 0
+16:24:30:904 (00034404) > [Save] Request save type 0, control 0
+16:24:54:074 (00034404) > [Save] Request save type 0, control 0
+16:24:54:074 (00034404) > [Save] Request save type 0, control 0
+16:25:40:939 (00034404) > [Save] Request save type 0, control 0
+16:25:40:939 (00034404) > [Save] Request save type 0, control 0
+16:25:40:939 (00034404) > [Save] Request save type 0, control 0
+16:25:40:939 (00034404) > [Save] Request save type 0, control 0
+16:25:40:939 (00034404) > [Save] Request save type 0, control 0
+16:25:57:410 (00034404) > [Save] Request save type 0, control 0
+16:25:57:410 (00034404) > [Save] Request save type 0, control 0
+16:25:57:418 (00034404) > [Save] Request save type 0, control 0
+16:27:08:997 (00034404) > [Save] Request save type 0, control 0
+16:27:11:739 (00034404) > [Save] Request save type 0, control 0
+16:28:34:894 (00034404) > [Save] Request save type 0, control 0
+16:28:34:894 (00034404) > [Save] Request save type 0, control 0
+16:29:13:169 (00034404) > [Save] Request save type 0, control 0
+16:29:27:513 (00034404) > [Save] Request save type 0, control 0
+16:29:27:513 (00034404) > [Save] Request save type 0, control 0
+16:29:27:513 (00034404) > [Save] Request save type 0, control 0
+16:29:27:513 (00034404) > [Save] Request save type 0, control 0
+16:29:58:432 (00034404) > [Save] Request save type 0, control 0
+16:29:58:502 (00034404) > [Save] Request save type 0, control 0
+16:29:58:502 (00034404) > [Save] Request save type 0, control 0
+16:29:58:517 (00034404) > [Save] Request save type 0, control 0
+16:30:25:635 (00034404) > [Save] Request save type 0, control 0
+16:30:25:635 (00034404) > [Save] Request save type 0, control 0
+16:30:25:636 (00034404) > [Save] Request save type 0, control 0
+16:30:44:178 (00034404) > [Save] Request save type 0, control 0
+16:30:44:178 (00034404) > [Save] Request save type 0, control 0
+16:30:44:195 (00034404) > [Save] Request save type 0, control 0
+16:31:39:935 (00034404) > [Save] Request save type 0, control 0
+16:31:39:935 (00034404) > [Save] Request save type 0, control 0
+16:31:39:952 (00034404) > [Save] Request save type 0, control 0
+16:32:26:798 (00034404) > [Save] Request save type 0, control 0
+16:32:26:799 (00034404) > [Save] Request save type 0, control 0
+16:32:26:815 (00034404) > [Save] Request save type 0, control 0
+16:32:42:207 (00034404) > [Save] Request save type 0, control 0
+16:32:42:207 (00034404) > [Save] Request save type 0, control 0
+16:32:42:225 (00034404) > [Save] Request save type 0, control 0
+16:33:04:581 (00034404) > [Save] Request save type 0, control 0
+16:33:04:582 (00034404) > [Save] Request save type 0, control 0
+16:33:04:582 (00034404) > [Save] Request save type 0, control 0
+16:33:36:134 (00034404) > [Save] Request save type 0, control 0
+16:33:36:134 (00034404) > [Save] Request save type 0, control 0
+16:33:36:151 (00034404) > [Save] Request save type 0, control 0
+16:33:49:462 (00034404) > [Save] Request save type 0, control 0
+16:33:49:462 (00034404) > [Save] Request save type 0, control 0
+16:33:49:478 (00034404) > [Save] Request save type 0, control 0
+16:34:41:838 (00034404) > [Save] Request save type 0, control 0
+16:34:41:838 (00034404) > [Save] Request save type 0, control 0
+16:34:41:855 (00034404) > [Save] Request save type 0, control 0
+16:35:16:288 (00034404) > [Save] Request save type 0, control 0
+16:35:16:288 (00034404) > [Save] Request save type 0, control 0
+16:35:16:288 (00034404) > [Save] Request save type 0, control 0
+16:36:07:416 (00034404) > [Save] Request save type 0, control 0
+16:36:07:416 (00034404) > [Save] Request save type 0, control 0
+16:36:07:433 (00034404) > [Save] Request save type 0, control 0
+16:37:41:589 (00034404) > [Save] Request save type 0, control 0
+16:37:41:590 (00034404) > [Save] Request save type 0, control 0
+16:37:41:607 (00034404) > [Save] Request save type 0, control 0
+16:39:41:967 (00034404) > [Save] Request save type 0, control 0
+16:39:41:967 (00034404) > [Save] Request save type 0, control 0
+16:39:41:968 (00034404) > [Save] Request save type 0, control 0
+16:39:43:982 (00034404) > [Save] Request save type 0, control 0
+16:39:44:508 (00034404) > [Save] Request save type 0, control 0
+16:39:44:508 (00034404) > [Save] Request save type 0, control 0
+16:39:44:532 (00034404) > [Save] Request save type 0, control 0
+16:40:10:909 (00034404) > [Save] Request save type 0, control 0
+16:40:10:910 (00034404) > [Save] Request save type 0, control 0
+16:40:10:926 (00034404) > [Save] Request save type 0, control 0
+16:40:56:868 (00034404) > [Save] Request save type 0, control 0
+16:41:07:435 (00034404) > [Save] Request save type 0, control 256
+16:41:07:436 (00034404) > [Save] Request save type 0, control 0
+16:41:07:436 (00034404) > [Save] Request save type 0, control 0
+16:42:30:813 (00034404) > [Save] Request save type 0, control 0
+16:43:15:444 (00034404) > [Save] Request save type 0, control 0
+16:43:15:446 (00034404) > [Save] Request save type 0, control 0
+16:44:17:213 (00034404) > [Save] Request save type 0, control 0
+16:44:17:213 (00034404) > [Save] Request save type 0, control 0
+16:45:32:644 (00034404) > [Save] Request save type 0, control 0
+16:45:32:644 (00034404) > [Save] Request save type 0, control 0
+16:47:44:135 (00034404) > [Save] Request save type 0, control 0
+16:47:44:136 (00034404) > [Save] Request save type 0, control 0
+16:48:52:173 (00034404) > [Save] Request save type 0, control 0
+16:49:30:160 (00034404) > [Save] Request save type 0, control 0
+16:49:30:161 (00034404) > [Save] Request save type 0, control 0
+16:51:19:303 (00034404) > [Save] Request save type 0, control 0
+16:51:19:304 (00034404) > [Save] Request save type 0, control 0
+16:54:12:743 (00034404) > [Save] Request save type 0, control 0
+16:54:12:743 (00034404) > [Save] Request save type 0, control 0
+16:55:48:031 (00034404) > [Save] Request save type 0, control 0
+16:55:48:031 (00034404) > [Save] Request save type 0, control 0
+16:57:08:027 (00034404) > [Save] Request save type 0, control 0
+16:57:08:028 (00034404) > [Save] Request save type 0, control 0
+16:58:26:878 (00034404) > [Save] Request save type 0, control 0
+16:58:26:879 (00034404) > [Save] Request save type 0, control 0
+16:58:26:881 (00034404) > [Save] Request save type 0, control 0
+16:59:02:294 (00034404) > [Save] Request save type 0, control 0
+16:59:33:589 (00034404) > [Save] Request save type 0, control 36
+17:02:49:455 (00034404) > [Save] Request save type 0, control 0
+17:02:49:956 (00034404) > [Save] Request save type 0, control 0
+17:02:49:957 (00034404) > [Save] Request save type 0, control 0
+17:03:54:174 (00034404) > [Save] Request save type 0, control 36
+17:03:54:801 (00034404) > [Save] Request load save type -1, control 128, target -1
+17:03:54:819 (00019852) > [Save] Request type 3 failed with code 0x00000002
+17:03:54:851 (00019852) > [Save] Request type 3 failed with code 0x00000002
+17:03:56:954 (00034404) > [Save] Request save type 0, control 36
+17:04:01:518 (00034404) > [App] Quit requested from menu
+17:04:01:578 (00034404) > [Save] Request save type 2, control 0
+17:04:02:573 (00035584) > [Audio] Device removed 0x0
+17:04:03:126 (00034404) > [NxApp] Destroying
+17:04:03:144 (00034404) > [DXGI] Destroyed swapchain.
+17:04:03:144 (00034404) > [SwapChain] Destroyed.
+17:04:03:144 (00034404) > [SwapChain] Released.
+17:04:03:144 (00034404) > [Render] Unloading NVAPI
+17:04:03:145 (00034404) > [Render] Done unloading NVAPI
+17:04:03:147 (00034404) > [DXGI] Destroyed swapchain.
+17:04:03:147 (00034404) > [DXGI] Released.
+--- NIXXES log closed ---
