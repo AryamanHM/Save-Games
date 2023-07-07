@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<C_SaveDataUnwrapped>
+	<m_Blocks>
+		<C_MapFilterSaveBlock>
+			<S_MapFilterSettings>
+				<m_Docks>1</m_Docks>
+				<m_Business>0</m_Business>
+				<m_KeyLocations>0</m_KeyLocations>
+				<m_Travel>0</m_Travel>
+				<m_Shops>2</m_Shops>
+				<m_Armories>2</m_Armories>
+			</S_MapFilterSettings>
+			<m_Id>map_filter</m_Id>
+			<m_Layer>0</m_Layer>
+		</C_MapFilterSaveBlock>
+		<C_CityIcons>
+			<m_MapSave>
+				<std::pair__20____26__lt__3b____20__u64__20__const__20____2c____20__C_SavedIcon__20__uestd::vector__20____20____26__gt__3b__>
+					<First>13202442178700209733</First>
+					<Second />
+				</std::pair__20____26__lt__3b____20__u64__20__const__20____2c____20__C_SavedIcon__20__uestd::vector__20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__u64__20__const__20____2c____20__C_SavedIcon__20__uestd::vector__20____20____26__gt__3b__>
+					<First>17294244401492530790</First>
+					<Second />
+				</std::pair__20____26__lt__3b____20__u64__20__const__20____2c____20__C_SavedIcon__20__uestd::vector__20____20____26__gt__3b__>
+			</m_MapSave>
+			<m_Id></m_Id>
+			<m_Layer>0</m_Layer>
+		</C_CityIcons>
+	</m_Blocks>
+</C_SaveDataUnwrapped>j8
