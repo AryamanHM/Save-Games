@@ -1,0 +1,131 @@
+Log: Log file open, 08/28/23 12:40:22
+Log:  ... running in INSTALLED mode
+Init: Version: 5859
+Init: Epic Internal: 0
+Init: Compiled (32-bit): Oct 14 2010 12:47:51
+Init: Changelist: 390360
+Init: Command line:  -DEFENGINEINI=..\..\GridGame\Config\DefaultEngineG4WLive.ini -DEFINPUTINI=..\..\GridGame\Config\DefaultInputPC.ini
+Init: Base directory: D:\Games\tRON\Binaries\Win32Live\
+Init: Character set: Unicode
+Log: Deleting old log file Launch-backup-2023.08.24-18.00.35.log
+Log: Deleting old log file Launch-backup-2023.08.24-18.02.02.log
+Log: Deleting old log file Launch-backup-2023.08.24-18.03.47.log
+Log: Deleting old log file Launch-backup-2023.08.24-18.13.22.log
+Log: Deleting old log file Launch-backup-2023.08.26-12.17.30.log
+Init: Computer: LAPTOP-B45MQN7C
+Init: User: aryam
+Init: CPU Page size=4096, Processors=8
+Init: High frequency timer resolution =10.000000 MHz
+Init: Memory total: Physical=15.9GB Pagefile=22.4GB Virtual=4.0GB
+Init: LiveSock: I am LAPTOP-B45MQN7C (127.0.0.1:0)
+Init: Presizing for 33476 objects not considered by GC, pre-allocating 0 bytes.
+Init: Object subsystem initialized
+DevDataBase: Connection to "Data Source=SM-BCVA-FARM01\SQLEXPRESS;Initial Catalog=EngineTaskPerf;Trusted_Connection=Yes" or "10.102.101.16" failed
+DevDataBase: Connection to "Data Source=SM-BCVA-FARM01\SQLEXPRESS;Initial Catalog=PerfMem;Trusted_Connection=Yes" or "10.102.101.16" failed
+Log: GNovodexSDK 06C40000
+Log: Initializing FaceFX...
+Log: FaceFX initialized:
+Log:     version : 1.7.3.1
+Log:     licensee: Unreal Engine 3 Licensee
+Log:     project : Unreal Engine 3 Project
+Log: FUdpLink::BindPort: Socket was not created
+Log: Failed to bind to port 9989 for listening for propagation messages.
+Log: ... Loaded 223 shaders (0 legacy, 0 redundant)
+Log: ... Loaded 24122 shaders (0 legacy, 0 redundant)
+Log: Shader cache for RefShaderCache-PC-D3D-SM3 contains 1881 materials (0 redundant)
+Log: 76648 objects as part of root set at end of initial load.
+Log: 0 out of 0 bytes used by permanent object pool.
+Log: Initializing Engine...
+Log: Object size..............: 60
+Log: Actor size...............: 484
+Log: ActorComponent size......: 88
+Log: PrimitiveComponent size..: 480
+Log: Looking for DLC...
+Log: XAudio2Device: Allocated 32 sources
+Log: XAudio2Device: CommonAudioPoolSize is set to 0 - disabling persistent pool for audio data
+Log: Wwise(R) SDK Version 2009.3.0 Build 3371. Copyright (c) 2006-2009 Audiokinetic Inc. / All Rights Reserved.
+Log: Setting audio language folder: ENGLISH(US)\
+Log: --> AkBank::LoadAsync - started loading 'SND_CMN_FOOTSTEPS'
+Log: --> AkBank::LoadAsync - started loading 'SND_MOBILITY_PLR'
+Log: --> AkBank::LoadAsync - started loading 'SND_ABRAXASSHARDS'
+Log: --> AkBank::LoadAsync - started loading 'SND_BG_GRENADE'
+Log: --> AkBank::LoadAsync - started loading 'SND_CMN_ENERGYPICKUPS'
+Log: --> AkBank::LoadAsync - started loading 'SND_CMN_HEALTHPICKUPS'
+Log: --> AkBank::LoadAsync - started loading 'SND_CMN_INFECTEDBEAM'
+Log: --> AkBank::LoadAsync - started loading 'SND_CMN_MAGNETICDISK'
+Log: --> AkBank::LoadAsync - started loading 'SND_CMN_NRG_BEAM'
+Log: --> AkBank::LoadAsync - started loading 'SND_COMMON_FOOTSTEPS'
+Log: --> AkBank::LoadAsync - started loading 'SND_DISK_AI'
+Log: --> AkBank::LoadAsync - started loading 'SND_DISK_PLR'
+Log: --> AkBank::LoadAsync - started loading 'SND_DISKSTATION'
+Log: --> AkBank::LoadAsync - started loading 'SND_HEALTHPOOL'
+Log: --> AkBank::LoadAsync - started loading 'SND_HUD'
+Log: --> AkBank::LoadAsync - started loading 'SND_INTERFACE'
+Log: --> AkBank::LoadAsync - started loading 'SND_LB_MISC'
+Log: --> AkBank::LoadAsync - started loading 'SND_LT_CANNON'
+Log: --> AkBank::LoadAsync - started loading 'SND_MOBILITY_AI'
+Log: --> AkBank::LoadAsync - started loading 'SND_MOBILITY_SEN'
+Log: --> AkBank::LoadAsync - started loading 'SND_MPSPEECH'
+Log: --> AkBank::LoadAsync - started loading 'SND_MUSIC'
+Log: --> AkBank::LoadAsync - started loading 'SND_PROXY'
+Log: UIScene size.............: 1436
+Log: UIObject size............: 1056
+Log: LoadMap: FE_Main?Name=Player?team=255
+Log: LoadMap: FE_Main?Name=Player?team=255: freeing any shared MP resources
+Log: Freeing MPSounds
+Log: Freeing MP Game Content
+Log: Virtual  memory allocation size: 140.84 MByte (147685376 Bytes)
+Log: Physical memory allocation size:   0.00 MByte (0 Bytes)
+Log: Loaded package
+Log: Level load
+Log: Persistents loaded
+Log: LoadPackage
+Log: Game class is 'PgFEGameInfo'
+Log: Begin play
+Log: Primary PhysX scene will be in software.
+Log: Creating Primary PhysX Scene.
+PerfWarning: InstanceGeom: 0.190001 ms - 1 Convex, Terrain 0.000000 ms, PerTriSM 0.000000 ms, InitArticulated 0.000000 ms, BodyInst Alloc 0.016700 ms, InitBody 1.420502 ms
+PerfWarning: NxActor Creation: 0.458702 ms
+Log: Bringing World FE_Main.TheWorld up for play (0) at 2023.08.28-12.40.36
+DevOnline: -- GameManager::SetGameMode() to 1 --
+Log: Bringing up level for play took: 0.006297
+Log: Client init
+DevOnline: XUserGetName(0) failed 0x00000006
+Log: APgGameInfo::Login() New Player! Options:?Name=Player?team=255
+Log: Accessed None 'AccessControl'
+	PgFEGameInfo FE_Main.TheWorld:PersistentLevel.PgFEGameInfo_0
+	Function Engine.GameInfo:Login:0358
+DevOnline: APgGameInfo::RatePlayerStartNative() - -1.000000 PgPlayerStart_0 DISABLED
+DevOnline: Chose PlayerStart: PgPlayerStart_0
+Log: SetOnlineState: 1
+
+DevOnline: Invalid player index (255) specified to GetLoginStatus()
+Log: TPC::ServerSetOnlineState(): Player:Player  State:1 [Prev: 0]
+
+DevOnline: No game present to join for session (Game)
+Log: APgGameInfo::Login() ELO=0 XP=0 SKP=0
+DevOnline: XUserGetName(0) failed 0x00000006
+Log: FPgUserDataGlobal::CopyDataToPlayerController: ELO=1600, XP=0 SKP=0
+
+DevOnline: XUserSetContext(0,X_CONTEXT_PRESENCE,0)
+DevOnline: XUserGetName(0) failed 0x00000006
+DevOnline: XUserGetName(0) failed 0x00000006
+DevOnline: UPgOnlineSessionManager::UpdateSession()
+Log: ########### Finished loading level: 0.417532 seconds
+Log: Fully loaded
+Log: Initializing Engine Completed
+Log: ==>GamePad connection 1<==
+Log: >>>>>>>>>>>>>> Initial startup: 82.36s <<<<<<<<<<<<<<<
+Log: All Windows Closed
+Log: appRequestExit(0)
+Exit: Preparing to exit.
+Exit: Game engine shut down
+Exit: Windows client shut down
+Exit: XAudio2 Device shut down.
+Exit: AK Audio shut down.
+Exit: Object subsystem successfully closed.
+Log: Shutting down FaceFX...
+Log: FaceFX shutdown.
+DevDataBase: Spent 0.000029 seconds communicating with "Data Source=SM-BCVA-FARM01\SQLEXPRESS;Initial Catalog=EngineTaskPerf;Trusted_Connection=Yes" or "10.102.101.16"
+Exit: Exiting.
+Log: Log file closed, 08/28/23 12:41:45
